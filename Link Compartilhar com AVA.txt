@@ -1,0 +1,10 @@
+Curso: Engenharia de Software.
+Período: 3º Período 
+Matéria: Estrutura de Dados.
+Aluno: Hugo Lelly de Lima Marinho
+Matrícula: 202211182
+
+Link do Github com todos os conteudos das aulas
+
+
+https://github.com/HugoLelly/Estrutura_de_Dados.git
