@@ -1,0 +1,19 @@
+01) Escreva um programa que cria uma fila vazia e insere os números de 1 a 5 
+nessa fila. Em seguida, remova os dois primeiros números da fila e exiba o 
+conteúdo restante.
+
+02) Escreva um programa que cria uma fila vazia e insere 10 números aleatórios
+nessa fila, em seguida, remova todos os números pares da fila e exiba o conteúdo
+restante.
+
+03) Escreva um programa que cria uma fila vazia e insere os números de 1 a 10
+nessa fila. Em seguida, exiba o elemento que esta na posição 4 da fila.
+
+04) Inverter a fila.
+
+05) Remover o elemento de maior valor (seja numérico ou caractere).
+
+06) Substituir o elemento de menor valor (seja numérico ou caractere) por outro
+valor maior e apresente o resultado.
+
+07) Organizar a fila de forma crescente (prioridade por idade).

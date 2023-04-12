@@ -1,0 +1,8 @@
+Universidade de Vassouras - Campus Maricá
+Engenharia de Software - 3º Período
+Disciplina: Estrutura de Dados
+Profº: Márcio Garrido
+Aluno: Hugo Lelly de Lima Marinho
+Matrícula: 202211182
+
+https://github.com/HugoLelly/Estrutura-de-Dados-Avalia-o-P1.git

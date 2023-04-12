@@ -1,0 +1,27 @@
+Exercícios para Aula
+
+Datas
+
+Ex 01) Carregue a data atual do computador e, com base na data atual, apresente a data de dois dias no futuro
+Ex 02) Carregue a data atual do computador e apresente somente a data
+
+Números
+
+Ex 03) Desenvolva um programa que leia um número inteiro qualquer e que apresente o número informado, seguido do seu antecessor e do seu sucessor
+Ex 04) Desenvolva um programa que leia um número inteiro qualquer e que apresente o número informado com duas casas decimais
+Ex 05) Desenvolva um programa que leia quatro notas e que apresente a média final
+Ex 06) Desenvolva um programa que leia um número inteiro qualquer e que informe se este número é par ou impar
+
+Dicionários
+
+Ex 07) Considere o seguinte dicionário: {'m1': {'m2': 'Olá Mundo'}}. Carregue e apresente a mensagem "Olá Mundo" contida no dicionário
+
+Funções
+
+Ex 08) Desenvolva um programa que tenha uma função que verifique se um número inteiro qualquer é par ou impar
+
+Listas
+
+Ex 09) Desenvolva um programa que armazene quatro notas em uma lista e que apresente: a média final, a maior nota e a menor nota
+Ex 10) Desenvolva um programa que armazene quatro notas em uma lista e que apresente a média final. Caso a média seja igual ou superior a 7, apresentar a mensagem "APROVADO", caso contrário, armazenar a nota da prova final e recalcular a média. Caso a nova média seja igual superior a 5, apresentar a mensagem "APROVADO", caso contrário, apresentar a mensagem "REPROVADO"
+Ex 11) Desenvolva um programa que pergunte o seu nome e, ao teclar Enter, apresente uma saudação personalizada com seu nome.
