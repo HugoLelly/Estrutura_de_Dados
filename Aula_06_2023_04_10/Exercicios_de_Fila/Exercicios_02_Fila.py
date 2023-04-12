@@ -11,23 +11,9 @@
 print(f'\n\t Universidade de Vassouras - Maricá \n\t Estrutura de Dados - Márcio Garrido \n\t 202211182 - Hugo Lelly de Lima Marinho')
 print(f'\n\t02) Escreva um programa que cria uma fila vazia e insere 10 números aleatórios \n\tnessa fila, em seguida, remova todos os números pares da fila e exiba o conteúdo \n\trestante.')
 
+from Class import Fila
+
 import random
-
-class Fila:
-    def __init__(self):
-        self.items = []
-
-    def enqueue(self, item):
-        self.items.append(item)
-
-    def dequeue(self):
-        return self.items.pop(0)
-
-    def is_empty(self):
-        return len(self.items) == 0
-
-    def size(self):
-        return len(self.items)
 
 fila = Fila()
 

@@ -9,23 +9,9 @@
 print(f'\n\t Universidade de Vassouras - Maricá \n\t Estrutura de Dados - Márcio Garrido \n\t 202211182 - Hugo Lelly de Lima Marinho')
 print(f'\n\t07) Organizar a fila de forma crescente (prioridade por idade).')
 
+from Class import Fila
+
 import random
-
-class Fila:
-    def __init__(self):
-        self.items = []
-
-    def enqueue(self, item):
-        self.items.append(item)
-
-    def dequeue(self):
-        return self.items.pop(0)
-
-    def is_empty(self):
-        return len(self.items) == 0
-
-    def size(self):
-        return len(self.items)
 
 fila = Fila()
 
