@@ -1,0 +1,13 @@
+Exercícios de Lógica
+
+01) Escreva uma função que calcule o tempo necessário para cozinhar um ovo, sabendo que o tempo de cozimento para um
+ovo de tamanho médio é de 3 minutos e que cada ovo adicionado aumenta o tempo em 1 minuto.
+
+02) Escreva uma função que calcule o número de dias necessários para concluir um projeto, sabendo que o projeto tem n
+tarefas e cada tarefa leva d dias para ser concluída.
+
+03) Escreva uma função que calcule o número de passos necessários para se chegar ao topo de uma montanha com n metros
+de altura, sabendo que cada passo dado aumenta a altitude em 10 centímetros e que um passo corresponde a 1 metro.
+
+04) Escreva uma função que calcule o número de dias necessários para percorrer uma distância de d quilômetros, sabendo
+que cada dia o viajante percorre p quilômetros e que ele precisa descansar a cada x dias percorridos.
