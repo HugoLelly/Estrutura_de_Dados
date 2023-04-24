@@ -7,7 +7,7 @@
 #02) Escreva uma função que calcule o número de dias necessários para concluir um projeto, sabendo que o projeto tem n
 #tarefas e cada tarefa leva d dias para ser concluída.
 
-print(f'\n\t Universidade de Vassouras - Maricá \n\t Estrutura de Dados - Márcio Garrido \n\t 202211182 - Hugo Lelly de Lima Marinho')
+print(f'\n\tUniversidade de Vassouras - Maricá \n\tEstrutura de Dados - Márcio Garrido \n\t202211182 - Hugo Lelly de Lima Marinho')
 print(f'\n\t02) Escreva uma função que calcule o número de dias necessários para concluir um projeto, \n\tsabendo que o projeto tem n tarefas e cada tarefa leva d dias para ser concluída.')
 
 def tempo_do_projeto(numero_tarefas, dias_por_tarefa):

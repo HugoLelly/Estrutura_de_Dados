@@ -7,8 +7,8 @@
 #04) Escreva uma função que calcule o número de dias necessários para percorrer uma distância de d quilômetros, sabendo
 #que cada dia o viajante percorre p quilômetros e que ele precisa descansar a cada x dias percorridos.
 
-print(f'\n\t Universidade de Vassouras - Maricá \n\t Estrutura de Dados - Márcio Garrido \n\t 202211182 - Hugo Lelly de Lima Marinho')
-print(f'\n\t04) Escreva uma função que calcule o número de dias necessários para percorrer uma \n\tdistância de d quilômetros, sabendo que cada dia o viajante percorre p quilômetros \n\te que ele precisa descansar a cada x dias percorridos.')
+print(f'\n\tUniversidade de Vassouras - Maricá \n\tEstrutura de Dados - Márcio Garrido \n\t202211182 - Hugo Lelly de Lima Marinho')
+print(f'\n\t 04) Escreva uma função que calcule o número de dias necessários para percorrer uma \n\tdistância de d quilômetros, sabendo que cada dia o viajante percorre p quilômetros \n\te que ele precisa descansar a cada x dias percorridos.')
 
 def tempo_de_viagem(distancia_em_km, quilometros_por_dia, dias_de_descanso):
     dias_de_viagem = distancia_em_km // quilometros_por_dia
